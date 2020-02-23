@@ -2,3 +2,10 @@ h1 {
     color: #ffffff;
     background-color: grey;
 }
+
+.tb {
+    background-image: url('../img/tb.png');
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+}
